@@ -1,1 +1,1 @@
-# webgl_wasm_demo
+# webgpu_wasm_demo
